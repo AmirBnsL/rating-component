@@ -1,0 +1,2 @@
+# rating-component
+frontendmentor challenge
